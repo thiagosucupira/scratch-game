@@ -1,0 +1,9 @@
+# Compiled class files
+**/target/
+**/*.class
+
+# Log files
+*.log
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
